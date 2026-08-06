@@ -14,7 +14,7 @@ set_filename() {
 
 usage_bug_report_message() {
     printf '%s\n' "Please include the '$LOG_FILENAME' file when reporting"
-    printf '%s\n' "your bug via the https://issues.openmandriva.org ."
+    printf '%s\n' "your bug via the https://github.com/OpenMandrivaAssociation/distribution/issues ."
 }
 
 usage() {
